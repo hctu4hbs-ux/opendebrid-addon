@@ -1,0 +1,10 @@
+{
+    "id": "org.opendebrid.eyad",
+    "version": "1.0.0",
+    "name": "OpenDebrid",
+    "description": "Eyad Al-Juhani",
+    "author": "Eyad Al-Juhani",
+    "resources": ["stream"],
+    "types": ["movie", "series"],
+    "idPrefixes": ["tt"]
+}
